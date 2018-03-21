@@ -2,7 +2,7 @@
 
 After Virgin Galactic's great success and traces of water being found on planet Mars, goverments of various countries including Australia came together and decided to colonise Mars. After 5 years since this decision they would like to know how the new colony on Mars is growing and also would like to retrieve information of the people living on that planet. Therefore, they are hiring you to build a REST API to provide the desired information.
 
-The goverment will provide you with 2 json files. One will have information of all the people living on Mars (name, eye colour, age, friends, food items they like to eat and many more...) and another file will have information about all the companies for which the people living on Mars are working for. You will also be responsible for cleaning and organising the data before using it directly from the json files provided. For example, providing a list of favourite foods (in endpoint 3) that each user likes needs to be split into a separate list of vegetables and fruits. 
+The goverment will provide you with 2 json files (located at resource folder). One will have information of all the people living on Mars (name, eye colour, age, friends, food items they like to eat and many more...) and another file will have information about all the companies for which the people living on Mars are working for. You will also be responsible for cleaning and organising the data before using it directly from the json files provided. For example, providing a list of favourite foods (in endpoint 3) that each user likes needs to be split into a separate list of vegetables and fruits. 
 
 ## New Features
 Your API must provide these end points:
