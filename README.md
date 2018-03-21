@@ -1,4 +1,4 @@
-# Mars-Challenge
+# Mars Challenge
 
 After Virgin Galactic's great success and traces of water being found on planet Mars, goverments of various countries including Australia came together and decided to colonise Mars. After 5 years since this decision they would like to know how the new colony on Mars is growing and also would like to retrieve information of the people living on that planet. Therefore, they are hiring you to build a REST API to provide the desired information.
 
